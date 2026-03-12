@@ -7,8 +7,8 @@
 
 ## 论文
 
-- **Zenodo DOI**: [待更新，发布后填入]
-- **PDF**: [待上传]
+- **Zenodo DOI**:10.5281/zenodo.18889585
+- **PDF**: https://doi.org/10.5281/zenodo.18889585
 
 ## 核心设计
 
@@ -57,6 +57,6 @@
   author = {李政达 (Li Zhengda)},
   title = {SC-Net: Structure as Computation for Low-Energy AI},
   year = {2026},
-  url = {https://github.com/sc-net/sc-net},
-  doi = {10.5281/zenodo.xxxxx}
+  url = {https://github.com/Canplank/sc-net},
+  doi = {10.5281/zenodo.18889585}
 }
